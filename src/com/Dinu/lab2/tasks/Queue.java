@@ -43,8 +43,8 @@ public class Queue {
 
     public void checkIfEmpty() {
         if(Parameter) {
-            System.out.println("The current size:"+ boxes.size());
-               System.out.println("The maximum size:" + maxSize);
+            System.out.println("The current size: " + boxes.size());
+               System.out.println("The maximum size: " + maxSize);
 
         }
 
