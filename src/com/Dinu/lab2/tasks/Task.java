@@ -13,7 +13,7 @@ public class Task {
         queue1.push(Box2);
         queue1.push(Box3);
         queue1.pop();
-        queue1.checkIfEmpty();
+        queue1.checkIfEmpty(); //Task3
         queue2.push(Box1);
         queue2.push(Box2);
         queue2.push(Box3);

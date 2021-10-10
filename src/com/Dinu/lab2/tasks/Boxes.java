@@ -1,5 +1,6 @@
 package com.Dinu.lab2.tasks;
 
+//Task1
 public class Boxes {
     private final int width;
     private final int height;
