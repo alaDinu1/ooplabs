@@ -14,12 +14,14 @@ public class Task {
         queue1.push(Box3);
         queue1.pop();
         queue1.checkIfEmpty(); //Task3
+        System.out.println(" ");
         queue2.push(Box1);
         queue2.push(Box2);
         queue2.push(Box3);
         queue2.push(Box3);
         queue2.pop();
         queue2.checkIfEmpty();
+        System.out.println(" ");
 
 
         //Task3
