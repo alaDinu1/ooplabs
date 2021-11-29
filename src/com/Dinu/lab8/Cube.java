@@ -18,5 +18,4 @@ public class Cube extends GeometricBody {
     double getVolume() {
         return a * a * a;
     }
-
 }

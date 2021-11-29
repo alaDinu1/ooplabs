@@ -18,6 +18,4 @@ public class Sphere extends GeometricBody {
     double getVolume() {
         return 4 * ((Math.PI)* radius*radius*radius)/3;
     }
-
-
 }

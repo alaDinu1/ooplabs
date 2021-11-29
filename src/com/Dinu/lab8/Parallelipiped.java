@@ -23,6 +23,5 @@ public class Parallelipiped extends GeometricBody {
     double getVolume() {
         return length * width * depth;
     }
-
 }
 

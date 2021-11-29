@@ -13,5 +13,4 @@ public class GeometricBody {
     double getVolume() {
         return 0;
     }
-
 }
